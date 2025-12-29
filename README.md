@@ -1,1 +1,0 @@
-# qa-auth-java-demo
